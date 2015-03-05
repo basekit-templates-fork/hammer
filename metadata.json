@@ -1,7 +1,7 @@
 {
     "name":"Hammer",
-    "thumbnail":"transition.png",
-    "screenshot":"transition.png",
+    "thumbnail":"hammer.png",
+    "screenshot":"hammer.png",
     "templateType":"standard",
     "pageTypes":["home"],
     "tags": {
@@ -23,11 +23,11 @@
         },
         "Swatch 2": {
             "color1":"#ffffff",
-            "color2":"#FFFCF9",
-            "color3":"#FF967F",
-            "color4":"#6F6960",
-            "color5":"#6F6960",
-            "color6":"#6F6960",
+            "color2":"#f2f2f2",
+            "color3":"#ceb024",
+            "color4":"#282828",
+            "color5":"#282828",
+            "color6":"#282828",
             "color7":"#ffffff"
         },
         "Swatch 3": {
