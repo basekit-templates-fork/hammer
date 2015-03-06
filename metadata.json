@@ -9,7 +9,11 @@
     "es": ["limpio", "comercio", "construcción", "construcción", "bricolaje"],
     "br": ["limpo", "comércio", "construção", "construção", "DIY"]
     },
-    "images":["images/feature-img.jpg", "images/1.jpg"],
+    "pageTypes":["home"],
+    "images":[
+        "images/feature-img.jpg", 
+        "images/1.jpg"
+    ],
     "colorSwatches":
     {
         "Swatch 1": {
